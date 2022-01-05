@@ -153,10 +153,3 @@ function getData(access_token) {
       OAuth(config.client_id, getAPIData);
     }
     ```
-    
-
-# Note
-Thanks <a href="https://github.com/pyliaorachel" title="Title">pyliaorachel</a> for teaching me! Really thank you!
-
- <img src="http://i.imgur.com/oxM7lUu.png" 
-alt="URL Scheme" width="369" height="660" border="50" />
